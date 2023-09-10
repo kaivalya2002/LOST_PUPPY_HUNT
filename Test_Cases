@@ -1,0 +1,21 @@
+                                                    ------UNIT CASES------
+
+1) If player is at bottom floor and still want to go DOWNWARD(D) ,
+  then that player will lost move and remain on same position by showing particular message
+ 
+2) If player is at LeftMost room of any floor and still want to go LEFT(L) , 
+   then that player will lost move and remain on same position by showing particular message
+
+3) If player is at RightMost room of any floor and still want to go RIGHT(R) , 
+ then that player will lost move and remain on same position by showing particular message
+
+4) If player is at TOP floor and still want to go UPWARD(U) , 
+  then that player will lost move and remain on same position by showing particular message.
+
+5) If both players are present on same position , then it will return M. 
+
+6)If any invalid move is taken , then it will show ERROR message but still give chance to that player to make move 
+
+7) If player want to quit game , then he can do by clicking X button .
+
+8)Player can have 1 move at a time
